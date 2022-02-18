@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkParola
-- 👀 I’m interested in making games
-- 💞️ I’m looking to collaborate on ren'py games
-- 📫 How to reach me ParolaGames#6688 on discord
+Hi, I’m @MarkParola
+
+ParolaGames#6688
+Focused on ren'py game projects
